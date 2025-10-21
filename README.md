@@ -59,5 +59,35 @@ Step 7: Finalize and Export
 
 # Output
 
+<img width="1076" height="525" alt="Screenshot 2025-10-21 215145" src="https://github.com/user-attachments/assets/c81f5d1b-878a-4803-acbc-9c15f3889929" />
+
+<img width="1244" height="646" alt="Screenshot 2025-10-21 215211" src="https://github.com/user-attachments/assets/09d8ff1d-65a0-4d28-90cf-7e4877b7326a" />
+
+<img width="928" height="403" alt="Screenshot 2025-10-21 215228" src="https://github.com/user-attachments/assets/21263e1f-accd-4016-a96d-cd25fd026c3e" />
+
+<img width="1081" height="443" alt="Screenshot 2025-10-21 215241" src="https://github.com/user-attachments/assets/9cdb7858-99c0-43a5-8761-f172fb612032" />
+
+<img width="1077" height="637" alt="Screenshot 2025-10-21 215256" src="https://github.com/user-attachments/assets/d48b380d-3e5d-4107-8650-07e84db895ca" />
+
+
+<img width="1076" height="588" alt="Screenshot 2025-10-21 215311" src="https://github.com/user-attachments/assets/9fe0b457-5931-48f3-8a96-57088704ebd1" />
+
+
+<img width="1163" height="415" alt="Screenshot 2025-10-21 215337" src="https://github.com/user-attachments/assets/8e8d0883-689b-405e-84e4-3b5d05fe87f2" />
+
+
+<img width="1126" height="679" alt="Screenshot 2025-10-21 215354" src="https://github.com/user-attachments/assets/afd4d525-3be1-439b-8a27-8ab584e22df8" />
+
+<img width="1111" height="556" alt="Screenshot 2025-10-21 215410" src="https://github.com/user-attachments/assets/c6383b1e-a0dc-4916-9811-91fabd2badfe" />
+
+<img width="1145" height="414" alt="Screenshot 2025-10-21 215422" src="https://github.com/user-attachments/assets/b6196759-df55-4994-a232-81b2fa273271" />
+
+<img width="1134" height="533" alt="Screenshot 2025-10-21 215549" src="https://github.com/user-attachments/assets/2054cfbf-89d7-448a-b83b-bec663ce7958" />
+
+<img width="1056" height="433" alt="Screenshot 2025-10-21 215601" src="https://github.com/user-attachments/assets/34f340c0-4f9d-4ed8-957f-204dbd6882f7" />
+
+
+
 
 # Result
+the prompt for the abovw said excuted successfully
