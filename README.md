@@ -57,7 +57,35 @@ Step 7: Finalize and Export
 
 
 
-# Output
+# Output:
+
+<img width="1076" height="525" alt="Screenshot 2025-10-21 215145" src="https://github.com/user-attachments/assets/e948841e-10fa-4b3d-a201-67fdcdb6a9c6" />
+
+<img width="1244" height="646" alt="Screenshot 2025-10-21 215211" src="https://github.com/user-attachments/assets/bca287af-85d2-486c-90cf-aded330fbd1b" />
+
+<img width="928" height="403" alt="Screenshot 2025-10-21 215228" src="https://github.com/user-attachments/assets/7f3ea777-8b2a-43f3-a9d1-250dd078bca7" />
+
+<img width="1081" height="443" alt="Screenshot 2025-10-21 215241" src="https://github.com/user-attachments/assets/e2ff3efd-f99f-4cea-a467-871d322b3e03" />
+
+<img width="1077" height="637" alt="Screenshot 2025-10-21 215256" src="https://github.com/user-attachments/assets/9ce628d5-a080-43fa-9ff8-16d371848d08" />
+
+<img width="1076" height="588" alt="Screenshot 2025-10-21 215311" src="https://github.com/user-attachments/assets/1ac7218d-ea57-4dd5-8895-5b66882ad778" />
+
+<img width="1034" height="373" alt="Screenshot 2025-10-21 215326" src="https://github.com/user-attachments/assets/a77e99b8-e84f-4844-b947-5a2337f17aea" />
+
+<img width="1163" height="415" alt="Screenshot 2025-10-21 215337" src="https://github.com/user-attachments/assets/430ec9d3-fb84-44f4-b894-95cedadb996d" />
+
+<img width="1126" height="679" alt="Screenshot 2025-10-21 215354" src="https://github.com/user-attachments/assets/7fb73739-c568-4a08-b439-25648945630e" />
+
+<img width="1111" height="556" alt="Screenshot 2025-10-21 215410" src="https://github.com/user-attachments/assets/e4bffbe9-2383-4d73-90f4-5f1e5cc60185" />
+
+<img width="1145" height="414" alt="Screenshot 2025-10-21 215422" src="https://github.com/user-attachments/assets/178d3551-f82d-44c6-89a7-0aa01b7b1872" />
+
+<img width="1134" height="533" alt="Screenshot 2025-10-21 215549" src="https://github.com/user-attachments/assets/80d9c9bd-6124-41d1-8200-657b864a4a49" />
+
+<img width="1056" height="433" alt="Screenshot 2025-10-21 215601" src="https://github.com/user-attachments/assets/e6920d1a-87fc-45e3-9eae-b53551b91754" />
+
 
 
 # Result
+the prompt for the above said problem is executed successfully
